@@ -16,4 +16,4 @@ Run
 while ensuring that Visio is installed and Housie.vsdx is in the same directory as the python script.
 
 # Demo
-![Demo](https://imgur.com/a/as6yDsu)
+![Demo](https://i.imgur.com/tsCbHOp.gif)
